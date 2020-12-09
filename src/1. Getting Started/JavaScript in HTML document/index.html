@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed JavaScipt in HTML Document</title>
+</head>
+
+<body>
+    <h1 id="title"></h1>
+    <p id="paragraph"></p>
+    
+    <div class="message">
+        Check the console to check how async and defer works
+    </div>
+
+    <script src="title.js"></script>
+    <script src="paragraph.js"></script>
+
+    <!-- The async attribute instructs the web browser to execute the JavaScript file asynchronously if possible. The async attribute does not guarantee the script files to execute in the order that they appear. -->
+    <script async src="service.js"></script>
+    <script async src="app.js"></script>
+
+    <!-- The defer attribute requests the web browser to execute the script file after the document has been parsed. Even though we place the <script> element in the <head> section, the script will wait for the browser to receive the closing tag <html> to start executing. -->
+    <script defer src="defer-script.js"></script>
+</body>
+
+</html>
