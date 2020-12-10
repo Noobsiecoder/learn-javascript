@@ -53,7 +53,7 @@ Person.prototype.getFullName = function () {
 // Instance of a class
 let john = new Person('John', 'Doe');
 
-// Callind the method, we can use the (.) method
+// Calling the method, we can use the (.) method
 let fullName = john.getFullName();
 
 // In ES6, classes were done as
