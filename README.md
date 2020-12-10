@@ -5,7 +5,7 @@ This repository is made to track my learning curve in JavaScript.
 ## ⚽ My Goal
 To learn important concepts in **3 weeks** of time. The concepts to cover are:-
 * Getting Started
-    - [x] What is JavaScript
+    - [x] What is JavaScript?
     - [x] *Hello World* in JavaScript
 * Fundamentals
     - [x] Syntax
