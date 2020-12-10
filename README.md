@@ -9,8 +9,8 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] *Hello World* in JavaScript
 * Fundamentals
     - [x] Syntax
-    - [ ] Variables
-    - [ ] Data Types
+    - [x] Variables
+    - [x] Data Types
     - [ ] Numbers
     - [ ] Boolean 
 * Operators
