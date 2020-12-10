@@ -1,7 +1,6 @@
 // Primitive boolean
 var isPending = false
 var isDone = true;
-
 /* using 'typeof' operator */
 console.log(typeof isPending); // boolean
 console.log(typeof isDone); // boolean
