@@ -11,8 +11,8 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] Syntax
     - [x] Variables
     - [x] Data Types
-    - [ ] Numbers
-    - [ ] Boolean 
+    - [x] Numbers
+    - [x] Boolean 
 * Operators
     - [ ] Unary operators
     - [ ] Assignment operators
