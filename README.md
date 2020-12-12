@@ -14,10 +14,10 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] Numbers
     - [x] Boolean 
 * Operators
-    - [ ] Unary operators
-    - [ ] Assignment operators
-    - [ ] Comparison operators
-    - [ ] Logical operators
+    - [x] Unary operators
+    - [x] Assignment operators
+    - [x] Comparison operators
+    - [x] Logical operators
 * Program flow
     - [ ] *if...else* conditions
     - [ ] Ternary operators
