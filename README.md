@@ -19,12 +19,12 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] Comparison operators
     - [x] Logical operators
 * Program flow
-    - [ ] *if...else* conditions
-    - [ ] Ternary operators
-    - [ ] Switch cases
-    - [ ] *while* loops
-    - [ ] *for* loops
-    - [ ] *break* and *continue* statements
+    - [x] *if...else* conditions
+    - [x] Ternary operators
+    - [x] Switch cases
+    - [x] *while* loops
+    - [x] *for* loops
+    - [x] *break* and *continue* statements
 * Strings
     - [ ] JavaScript strings
     - [ ] String types
