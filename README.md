@@ -26,13 +26,13 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] *for* loops
     - [x] *break* and *continue* statements
 * Strings
-    - [ ] JavaScript strings
-    - [ ] String types
-    - [ ] Trimming
-    - [ ] Padding
-    - [ ] Concatenation of strings
-    - [ ] Splitting strings
-    - [ ] String indexes and other other functions
+    - [x] JavaScript strings
+    - [x] String types
+    - [x] Trimming
+    - [x] Padding
+    - [x] Concatenation of strings
+    - [x] Splitting strings
+    - [x] String indexes and other other functions
 * Arrays
     - [ ] JavaScript Array 
     - [ ] Array length 
