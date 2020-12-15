@@ -34,11 +34,11 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] Splitting strings
     - [x] String indexes and other other functions
 * Arrays
-    - [ ] JavaScript Array 
-    - [ ] Array length 
-    - [ ] Array Methods: Stack & Queue
-    - [ ] Array functions
-    - [ ] Multidimensional Arrays
+    - [x] JavaScript Array 
+    - [x] Array length 
+    - [x] Array Methods: Stack & Queue
+    - [x] Array functions
+    - [x] Multidimensional Arrays
 * Functions
     - [ ] Intro to functions
     - [ ] Functions are the first-class citizens
