@@ -40,11 +40,10 @@ To learn important concepts in **3 weeks** of time. The concepts to cover are:-
     - [x] Array functions
     - [x] Multidimensional Arrays
 * Functions
-    - [ ] Intro to functions
-    - [ ] Functions are the first-class citizens
-    - [ ] Anonymous Functions
-    - [ ] Immediately Invoked Function Expression
-    - [ ] Callback functions
+    - [x] Intro to functions
+    - [x] Functions are the first-class citizens
+    - [x] Anonymous Functions
+    - [x] Immediately Invoked Function Expression
 * Objects & Prototypes
     - [ ] Intro to objects
     - [ ] Object Properties
